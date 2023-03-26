@@ -1,0 +1,19 @@
+5. Qual o conteúdo da variável names depois de executar as seguintes instruções:
+
+A resposta sera: 
+"Ann", "Cal"
+
+6. O que há de errado com a seguinte declaração se estivesse num programa Java
+Resposta: está faltando instanciar o ArrayList, como por exemplo, ArrayList<String> names = new ArrayList<>();.
+
+7. Considere o seguinte array int[] a = {1, 2, 3, 4, 5, 4, 3, 2, 1, 0 }; 
+Qual o valor de total deois de completar cada uma das seguintes instruções:
+Resposta: 
+a. total = 45
+b. total = 15
+c. total = 20
+d. total = 20
+e. total = 20
+f. total = 45
+g. total = 25
+h. total = -45

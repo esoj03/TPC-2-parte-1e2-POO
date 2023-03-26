@@ -1,0 +1,29 @@
+3. O que esses será apresentado com a execução das seguintes instruções:
+a. 1 2 3 4 5 6 7 8 9
+b. 1 3 5 7 9
+c. 10 9 8 7 6 5 4 3 2 1
+d. 0 1 2 3 4 5 6 7 8 9
+e. 1 2 4 8
+f. 2 4 6 8
+
+4. Nas instruções de repetição qeu se seguem, quantas iterações são executadas ? [assume que o
+valor de i não é modificado no corpo das instruções de repetição]
+a. 9 iterações 
+b. 10 iterações
+c. 11 iterações
+d. 21 iterações
+e. 11 iterações
+f. 11 iterações
+g. 7 iterações
+
+7. O que será apresetando no ecrã com as seguintes instruções de repetição ? Calcule a resposta
+rastreando o código
+A. 1 2 3 4 5
+B. 2 4 8 16 32 64 128 256 512
+C. 6 5
+
+8. O que será apresentado no ecrã pelo seguintes segmentos de programas em JAVA:
+a. 5
+b. 5
+c. 8
+d. 4
